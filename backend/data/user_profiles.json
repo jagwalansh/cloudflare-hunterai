@@ -1,0 +1,968 @@
+[
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "title": "AI-Powered Communication Routing & Spam Classifier",
+                "technologies": [
+                    "NLP",
+                    "TF-IDF",
+                    "Random Forest Classifier",
+                    "Streamlit"
+                ]
+            },
+            {
+                "title": "Production-Style Patient Data Engine",
+                "technologies": [
+                    "RESTful API",
+                    "FastAPI",
+                    "Pydantic Data Models",
+                    "APIRouter"
+                ]
+            },
+            {
+                "title": "Predictive Medical Analysis & Classification Pipelines",
+                "technologies": [
+                    "PyCaret",
+                    "KNN algorithms",
+                    "precision",
+                    "recall",
+                    "F1-scores",
+                    "ROC curves"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "title": "AI-Powered Communication Routing & Spam Classifier",
+                "date": "Feb 2026",
+                "role": "Machine Learning & NLP Engineer",
+                "description": [
+                    "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction.",
+                    "Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics.",
+                    "Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+                ]
+            },
+            {
+                "title": "Production-Style Patient Data Engine",
+                "date": "Dec 2025",
+                "role": "Core Backend Developer",
+                "description": [
+                    "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics.",
+                    "Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models.",
+                    "Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+                ]
+            },
+            {
+                "title": "Predictive Medical Analysis & Classification Pipelines",
+                "date": "Nov 2025",
+                "role": "Data Science & ML Developer",
+                "description": [
+                    "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets.",
+                    "Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage.",
+                    "Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "date": "2025\u20132029",
+                "details": "SGPA: 7.63"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2024\u20132025",
+                "details": "Percentage: 73%"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2022\u20132023",
+                "details": "Percentage: 86%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "title": "AI-Powered Communication Routing & Spam Classifier",
+                "date": "Feb 2026",
+                "role": "Machine Learning & NLP Engineer",
+                "description": "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction. Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics. Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+            },
+            {
+                "title": "Production-Style Patient Data Engine",
+                "date": "Dec 2025",
+                "role": "Core Backend Developer",
+                "description": "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics. Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models. Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+            },
+            {
+                "title": "Predictive Medical Analysis & Classification Pipelines",
+                "date": "Nov 2025",
+                "role": "Data Science & ML Developer",
+                "description": "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets. Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage. Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "date": "2025\u20132029"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2024\u20132025"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2022\u20132023"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI"
+        ],
+        "projects": [
+            {
+                "name": "AI-Powered Communication Routing & Spam Classifier",
+                "description": "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction. Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics. Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+            },
+            {
+                "name": "Production-Style Patient Data Engine",
+                "description": "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics. Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models. Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+            },
+            {
+                "name": "Predictive Medical Analysis & Classification Pipelines",
+                "description": "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets. Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage. Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "date": "2025\u20132029",
+                "description": "SGPA: 7.63"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2024\u20132025",
+                "description": "Percentage: 73%"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2022\u20132023",
+                "description": "Percentage: 86%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "name": "AI-Powered Communication Routing & Spam Classifier",
+                "date": "Feb 2026",
+                "role": "Machine Learning & NLP Engineer",
+                "description": [
+                    "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction.",
+                    "Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics.",
+                    "Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+                ]
+            },
+            {
+                "name": "Production-Style Patient Data Engine",
+                "date": "Dec 2025",
+                "role": "Core Backend Developer",
+                "description": [
+                    "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics.",
+                    "Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models.",
+                    "Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+                ]
+            },
+            {
+                "name": "Predictive Medical Analysis & Classification Pipelines",
+                "date": "Nov 2025",
+                "role": "Data Science & ML Developer",
+                "description": [
+                    "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets.",
+                    "Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage.",
+                    "Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "dates": "2025\u20132029"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2024\u20132025"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2022\u20132023"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "title": "AI-Powered Communication Routing & Spam Classifier",
+                "date": "Feb 2026",
+                "description": [
+                    "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction.",
+                    "Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics.",
+                    "Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+                ]
+            },
+            {
+                "title": "Production-Style Patient Data Engine",
+                "date": "Dec 2025",
+                "description": [
+                    "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics.",
+                    "Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models.",
+                    "Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+                ]
+            },
+            {
+                "title": "Predictive Medical Analysis & Classification Pipelines",
+                "date": "Nov 2025",
+                "description": [
+                    "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets.",
+                    "Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage.",
+                    "Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "date": "2025\u20132029",
+                "details": "SGPA: 7.63"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2024\u20132025",
+                "details": "Percentage: 73%"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2022\u20132023",
+                "details": "Percentage: 86%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI"
+        ],
+        "projects": [
+            {
+                "title": "AI-Powered Communication Routing & Spam Classifier",
+                "date": "Feb 2026",
+                "role": "Machine Learning & NLP Engineer",
+                "description": [
+                    "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction.",
+                    "Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics.",
+                    "Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+                ]
+            },
+            {
+                "title": "Production-Style Patient Data Engine",
+                "date": "Dec 2025",
+                "role": "Core Backend Developer",
+                "description": [
+                    "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics.",
+                    "Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models.",
+                    "Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+                ]
+            },
+            {
+                "title": "Predictive Medical Analysis & Classification Pipelines",
+                "date": "Nov 2025",
+                "role": "Data Science & ML Developer",
+                "description": [
+                    "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets.",
+                    "Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage.",
+                    "Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "dates": "2025\u20132029",
+                "details": "SGPA: 7.63"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2024\u20132025",
+                "details": "Percentage: 73%"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2022\u20132023",
+                "details": "Percentage: 86%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "Hemal Gandhi",
+        "email": "hemalgandhi882@gmail.com",
+        "phone": "+91 7017045607",
+        "skills": [
+            "C++",
+            "C",
+            "Java",
+            "HTML",
+            "CSS",
+            "Data Structures & Algorithms",
+            "Generative AI",
+            "Large Language Models",
+            "JavaScript",
+            "VS Code",
+            "GitHub",
+            "Git",
+            "Communication",
+            "Adaptability",
+            "Problem Solving",
+            "AI",
+            "ML"
+        ],
+        "projects": [
+            {
+                "name": "Plant Emotion AI App",
+                "description": "Building a fully responsive app that captures every details of growing plants. Build a prototype to test the feasibility."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (Artificial Intelligence and Machine Learning)",
+                "institution": "Chandigarh University",
+                "location": "Mohali, Punjab",
+                "dates": "2025\u20132029",
+                "details": "SGPA: 8.68"
+            },
+            {
+                "degree": "Intermediate (ISC)",
+                "institution": "St. Joseph Inter College",
+                "location": "Thakurganj , Lucknow",
+                "dates": "2023\u20132024",
+                "details": "88%"
+            },
+            {
+                "degree": "High School (ICSE)",
+                "institution": "St. Joseph Inter College",
+                "location": "Thakurganj , Lucknow",
+                "dates": "2021\u20132022",
+                "details": "85%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "skills": [],
+        "projects": [],
+        "education": [],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Machine Learning",
+            "Data Structures & Algorithms (DSA)",
+            "HTML",
+            "GitHub",
+            "VS Code",
+            "Code::Blocks",
+            "Google Docs",
+            "Kaggle",
+            "LeetCode",
+            "Communication",
+            "Adaptability",
+            "Problem-Solving",
+            "Open-Mindedness"
+        ],
+        "projects": [
+            {
+                "title": "ML Basics \u2013 Linear Regression from Scratch",
+                "date": "Jan 2026",
+                "role": "Machine Learning Developer",
+                "description": [
+                    "Implemented Linear Regression from scratch using Python to strengthen understanding of core machine learning concepts, including cost function computation and parameter optimization",
+                    "Performed data preprocessing and model evaluation to analyze prediction accuracy and learning behavior",
+                    "Utilized NumPy and Pandas for efficient numerical computation and structured data handling"
+                ]
+            },
+            {
+                "title": "Patient Data Management System using FastAPI",
+                "date": "Dec 2025",
+                "role": "Backend Developer",
+                "description": [
+                    "Developed a RESTful API using FastAPI to manage patient data with structured request and response validation",
+                    "Implemented complete CRUD operations using Pydantic models, ensuring clean API architecture and data consistency",
+                    "Designed modular and scalable backend components following best practices in API development"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (Artificial Intelligence and Machine Learning)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "dates": "2025\u20132029",
+                "details": "SGPA: 7.63"
+            },
+            {
+                "degree": "Senior Secondary Education: CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2024\u20132025",
+                "details": "Percentage: 73%"
+            },
+            {
+                "degree": "Secondary Education: Matriculation CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2022\u20132023",
+                "details": "Percentage: 86%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "title": "AI-Powered Communication Routing & Spam Classifier",
+                "date": "Feb 2026",
+                "role": "Machine Learning & NLP Engineer",
+                "description": "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction. Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics. Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+            },
+            {
+                "title": "Production-Style Patient Data Engine",
+                "date": "Dec 2025",
+                "role": "Core Backend Developer",
+                "description": "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics. Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models. Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+            },
+            {
+                "title": "Predictive Medical Analysis & Classification Pipelines",
+                "date": "Nov 2025",
+                "role": "Data Science & ML Developer",
+                "description": "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets. Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage. Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "institution": "Chandigarh University, Mohali, Punjab",
+                "dates": "2025\u20132029",
+                "gpa": "7.63 SGPA"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2024\u20132025",
+                "gpa": "73%"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "institution": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "dates": "2022\u20132023",
+                "gpa": "86%"
+            }
+        ],
+        "experience": [
+            {
+                "title": "Data Science / AI Engineer Intern",
+                "company": "Unessa Foundation",
+                "dates": "May 2026",
+                "description": "Secured internship selection track through a competitive profile screening on Internshala."
+            }
+        ]
+    },
+    {
+        "name": "Shaurya Mishra",
+        "email": "",
+        "phone": "",
+        "skills": [
+            "Research",
+            "Planning",
+            "Content Development",
+            "Magazine Design",
+            "Publication",
+            "Awareness Campaigns",
+            "Community Engagement",
+            "Collaboration",
+            "Digital Marketing",
+            "Project Management",
+            "Policy Advocacy",
+            "Public Health Education",
+            "Social Awareness"
+        ],
+        "projects": [
+            {
+                "name": "Affordable Medicines for All",
+                "description": "A social awareness magazine with the tagline 'Equal Access, Health for Every Life', aiming to educate society about the importance of medicine affordability, highlight its global impact, and promote solutions that ensure healthcare access for all. Its mission is to raise awareness about medicine affordability, reduce healthcare inequality, and promote equitable access to essential medicines."
+            }
+        ],
+        "education": [],
+        "experience": []
+    },
+    {
+        "name": "Shaurya Mishra",
+        "email": "",
+        "phone": "",
+        "skills": [],
+        "projects": [
+            {
+                "name": "Affordable Medicines for All \u2013 Equal Access, Health for Every Life (Social Awareness Magazine Proposal)",
+                "description": "Proposed a social awareness magazine to educate society about the importance of medicine affordability, highlight its global impact, and promote solutions for healthcare access. The vision is 'A world where essential medicines are affordable, accessible, and available to every individual regardless of income.' The mission is to raise awareness about medicine affordability, reduce healthcare inequality, and promote equitable access to essential medicines. Objectives include creating awareness about affordable medicines, educating on global healthcare disparities, highlighting causes of high costs, promoting policies for accessibility, and encouraging informed healthcare decisions. The project's scope involves spreading awareness, serving as an educational resource, organizing campaigns, collaborating with professionals and policymakers, promoting safe medicine use, and supporting community engagement. Implementation includes research and planning, content development, magazine design and publication (digital and print), awareness campaigns, community engagement, collaboration and support, and use of digital platforms.",
+                "startDate": "",
+                "endDate": "",
+                "responsibilities": [
+                    "Founder / Project Head"
+                ]
+            }
+        ],
+        "education": [],
+        "experience": []
+    },
+    {
+        "name": "Shaurya Mishra",
+        "email": "",
+        "phone": "",
+        "skills": [
+            "Research",
+            "Planning",
+            "Data Analysis",
+            "Content Development",
+            "Technical Writing",
+            "Communication",
+            "Magazine Design",
+            "Publication",
+            "Digital Publishing",
+            "Awareness Campaigns",
+            "Public Speaking",
+            "Outreach",
+            "Community Engagement",
+            "Facilitation",
+            "Collaboration",
+            "Stakeholder Management",
+            "Social Media Marketing",
+            "Digital Marketing",
+            "Project Management",
+            "Editorial Leadership",
+            "Financial Management",
+            "Resource Management",
+            "Volunteer Management"
+        ],
+        "projects": [
+            "Social Awareness Magazine: Affordable Medicines for All"
+        ],
+        "education": [],
+        "experience": []
+    },
+    {
+        "name": "Shaurya Mishra",
+        "email": "",
+        "phone": "",
+        "skills": [],
+        "projects": [
+            {
+                "title": "Social Awareness Magazine: Affordable Medicines for All",
+                "description": "Proposal for a social awareness magazine aiming to educate society about the importance of medicine affordability, highlight its global impact, and promote solutions that ensure healthcare access for all. The magazine seeks to raise awareness about medicine affordability, reduce healthcare inequality, and promote equitable access to essential medicines by educating communities, encouraging responsible healthcare policies, and supporting initiatives for accessible life-saving treatments.",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Conduct research on global medicine accessibility, healthcare inequality, and affordability challenges, identifying key issues such as high costs, distribution barriers, and policy limitations.",
+                    "Prepare informative articles, statistics, case studies, and awareness messages explaining the causes and consequences of inaccessible medicines in simple and clear language.",
+                    "Design the magazine in an engaging and reader-friendly format and publish both digital and print versions to maximize reach.",
+                    "Distribute the magazine in educational institutions and community centers, conducting interactive sessions discussing healthcare access and affordability.",
+                    "Encourage discussions among students, families, and community members regarding health equity and responsible medicine use.",
+                    "Partner with healthcare professionals, NGOs, and policymakers to provide credible information and guidance.",
+                    "Promote awareness through social media campaigns, educational content, and online resources."
+                ]
+            }
+        ],
+        "education": [],
+        "experience": []
+    },
+    {
+        "name": "Shaurya Mishra",
+        "email": "",
+        "phone": "",
+        "skills": [
+            "Research",
+            "Planning",
+            "Content Development",
+            "Writing",
+            "Magazine Design",
+            "Publication",
+            "Campaign Management",
+            "Public Awareness",
+            "Community Engagement",
+            "Collaboration",
+            "Digital Marketing",
+            "Social Media Management",
+            "Project Management",
+            "Editorial",
+            "Graphic Design",
+            "Outreach",
+            "Financial Management",
+            "Advocacy",
+            "Public Health",
+            "Healthcare Policy",
+            "Education",
+            "Communication",
+            "Problem Solving",
+            "Leadership"
+        ],
+        "projects": [
+            {
+                "title": "Affordable Medicines for All \u2013 Equal Access, Health for Every Life",
+                "description": "A proposal for a social awareness magazine designed to educate society about the importance of medicine affordability, highlight its global impact, and promote solutions that ensure healthcare access for all. The project involves research and planning, content development, magazine design and publication (digital and print), awareness campaigns, community engagement, collaboration with healthcare professionals and policymakers, and the use of digital platforms to raise awareness, reduce healthcare inequality, and promote equitable access to essential medicines."
+            }
+        ],
+        "education": [],
+        "experience": []
+    },
+    {
+        "name": "SHAURYA MISHRA",
+        "email": "mishrashaurya2008@gmail.com",
+        "phone": "+91 77558 98628",
+        "skills": [
+            "Python",
+            "C++",
+            "C",
+            "FastAPI",
+            "Pydantic",
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyCaret",
+            "NLP",
+            "DSA",
+            "HTML",
+            "JavaScript",
+            "GitHub",
+            "Git",
+            "Streamlit",
+            "VS Code",
+            "Kaggle",
+            "LeetCode",
+            "Claude AI",
+            "Communication",
+            "Technical Problem-Solving",
+            "High-Velocity Execution",
+            "Adaptability"
+        ],
+        "projects": [
+            {
+                "name": "AI-Powered Communication Routing & Spam Classifier",
+                "role": "Machine Learning & NLP Engineer",
+                "date": "Feb 2026",
+                "description": "Architected an end-to-end NLP text processing pipeline to clean, tokenize, and vectorize text datasets using TF-IDF feature extraction. Trained and validated a Random Forest Classifier to distinguish system communications from risks with rigorous testing metrics. Deployed a live, real-time inferencing web interface using Streamlit to process message payloads with minimal latency."
+            },
+            {
+                "name": "Production-Style Patient Data Engine",
+                "role": "Core Backend Developer",
+                "date": "Dec 2025",
+                "description": "Developed a high-performance RESTful API using FastAPI to process, track, and modify relational patient health metrics. Enforced data schema validation, custom exceptions, and structured response parsing using Pydantic Data Models. Designed modular backend components utilizing modular APIRouter splits and structured lifecycle file system operations."
+            },
+            {
+                "name": "Predictive Medical Analysis & Classification Pipelines",
+                "role": "Data Science & ML Developer",
+                "date": "Nov 2025",
+                "description": "Engineered binary classification pipelines leveraging PyCaret and KNN algorithms to accurately detect anomalies in health datasets. Handled feature scaling, outlier elimination, and stratified splitting workflows to protect backend tracking from data leakage. Evaluated pipeline performance using industry-standard precision, recall, F1-scores, and ROC curves."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science & Engineering (AI & ML)",
+                "university": "Chandigarh University, Mohali, Punjab",
+                "date": "2025\u20132029",
+                "sgpa": "7.63"
+            },
+            {
+                "degree": "Senior Secondary Education (Class XII) \u2014 CBSE Board",
+                "school": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2024\u20132025",
+                "percentage": "73%"
+            },
+            {
+                "degree": "Secondary Education (Class X) \u2014 CBSE Board",
+                "school": "Sadhguru Public Hr. Secondary School, Uttar Pradesh",
+                "date": "2022\u20132023",
+                "percentage": "86%"
+            }
+        ],
+        "experience": []
+    },
+    {
+        "name": "Shaurya Mishra",
+        "email": "",
+        "phone": "",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Machine Learning",
+            "Scikit"
+        ],
+        "projects": [],
+        "education": [],
+        "experience": []
+    }
+]

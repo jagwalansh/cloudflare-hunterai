@@ -1,0 +1,101 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2287 >>
+stream
+BT /F2 22 Tf 54 760 Td (HUNTER AI) Tj ET
+BT /F2 26 Tf 54 733 Td (CAREER INTELLIGENCE REPORT) Tj ET
+BT /F1 12 Tf 54 702 Td () Tj ET
+BT /F1 16 Tf 54 685 Td (Prepared for Sample Candidate) Tj ET
+BT /F1 10 Tf 54 664 Td (Generated 08 Aug 2026, 10:00 UTC) Tj ET
+BT /F1 12 Tf 54 648 Td () Tj ET
+BT /F1 12 Tf 54 631 Td (Profile completion: 92%) Tj ET
+BT /F1 12 Tf 54 614 Td (Resume parsing: Complete) Tj ET
+BT /F1 10 Tf 54 597 Td () Tj ET
+BT /F2 15 Tf 54 581 Td (RESUME SUMMARY) Tj ET
+BT /F1 10 Tf 54 561 Td ({'skills': ['Python', 'React', 'SQL'], 'education': [{'degree': 'B.Tech Computer Science',) Tj ET
+BT /F1 10 Tf 54 545 Td ('institution': 'Example University', 'year': '2026'}], 'experience': [{'role': 'Software) Tj ET
+BT /F1 10 Tf 54 529 Td (Engineering Intern', 'company': 'Example Labs'}], 'projects': [{'title': 'Career Match) Tj ET
+BT /F1 10 Tf 54 513 Td (Platform', 'technologies': ['FastAPI', 'Next.js']}]}) Tj ET
+BT /F1 10 Tf 54 497 Td () Tj ET
+BT /F2 15 Tf 54 481 Td (ATS SCORE) Tj ET
+BT /F1 10 Tf 54 461 Td (84) Tj ET
+BT /F1 10 Tf 54 445 Td () Tj ET
+BT /F2 15 Tf 54 429 Td (ATS BREAKDOWN) Tj ET
+BT /F1 10 Tf 54 409 Td ({'top_match_score': 84, 'matched_opportunities': 12}) Tj ET
+BT /F1 10 Tf 54 393 Td () Tj ET
+BT /F2 15 Tf 54 377 Td (STRENGTHS) Tj ET
+BT /F1 10 Tf 54 357 Td (['Python', 'React', 'SQL']) Tj ET
+BT /F1 10 Tf 54 341 Td () Tj ET
+BT /F2 15 Tf 54 325 Td (WEAKNESSES) Tj ET
+BT /F1 10 Tf 54 305 Td (['Docker', 'Cloud deployment']) Tj ET
+BT /F1 10 Tf 54 289 Td () Tj ET
+BT /F2 15 Tf 54 273 Td (SKILL ANALYSIS) Tj ET
+BT /F1 10 Tf 54 253 Td ({'parsed_skills': ['Python', 'React', 'SQL']}) Tj ET
+BT /F1 10 Tf 54 237 Td () Tj ET
+BT /F2 15 Tf 54 221 Td (MISSING SKILLS) Tj ET
+BT /F1 10 Tf 54 201 Td (['Docker', 'Cloud deployment']) Tj ET
+BT /F1 10 Tf 54 185 Td () Tj ET
+BT /F2 15 Tf 54 169 Td (RESUME IMPROVEMENT SUGGESTIONS) Tj ET
+BT /F1 10 Tf 54 149 Td (['Add measurable impact to project descriptions.']) Tj ET
+BT /F1 10 Tf 54 133 Td () Tj ET
+BT /F2 15 Tf 54 117 Td (RESUME TAILORING SUGGESTIONS) Tj ET
+BT /F1 10 Tf 54 97 Td ({'target_role': 'Frontend Engineer', 'focus': 'Highlight React and API integration work.'}) Tj ET
+BT /F1 10 Tf 54 81 Td () Tj ET
+BT /F2 15 Tf 54 65 Td (TOP RECOMMENDED JOBS) Tj ET
+BT /F1 8 Tf 54 30 Td (Hunter AI Career Intelligence Report) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 1108 >>
+stream
+BT /F1 10 Tf 54 760 Td ([{'title': 'Frontend Engineering Intern', 'company': 'Northstar', 'score': 84, 'location':) Tj ET
+BT /F1 10 Tf 54 744 Td ('Remote'}, {'title': 'Software Engineer Intern', 'company': 'Pioneer', 'score': 79}]) Tj ET
+BT /F1 10 Tf 54 728 Td () Tj ET
+BT /F2 15 Tf 54 712 Td (CAREER GROWTH SUGGESTIONS) Tj ET
+BT /F1 10 Tf 54 692 Td (['Build and deploy one full-stack portfolio project.']) Tj ET
+BT /F1 10 Tf 54 676 Td () Tj ET
+BT /F2 15 Tf 54 660 Td (MARKET INTELLIGENCE) Tj ET
+BT /F1 10 Tf 54 640 Td ({'trend': 'Full-stack and cloud fundamentals appear across saved roles.'}) Tj ET
+BT /F1 10 Tf 54 624 Td () Tj ET
+BT /F2 15 Tf 54 608 Td (RECENT ACTIVITY) Tj ET
+BT /F1 10 Tf 54 588 Td ({'saved_jobs': [{'title': 'Frontend Engineering Intern', 'company': 'Northstar'}],) Tj ET
+BT /F1 10 Tf 54 572 Td ('tailored_resumes_generated': 1}) Tj ET
+BT /F1 10 Tf 54 556 Td () Tj ET
+BT /F2 15 Tf 54 540 Td (OVERALL AI SUMMARY) Tj ET
+BT /F1 10 Tf 54 520 Td (Strong early-career profile with practical web development foundations.) Tj ET
+BT /F1 8 Tf 54 30 Td (Hunter AI Career Intelligence Report) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002605 00000 n 
+0000002741 00000 n 
+0000003901 00000 n 
+trailer << /Size 9 /Root 1 0 R >>
+startxref
+4037
+%%EOF

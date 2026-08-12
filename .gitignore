@@ -1,0 +1,33 @@
+# Environment Variables
+.env
+.env.*
+backend/config/.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Databases & Uploads
+*.db
+*.sqlite3
+*.zip
+backend/data/uploads/*
+!backend/data/uploads/resume/
+!backend/data/uploads/resume/25bai70051_shauryamishra.pdf
+

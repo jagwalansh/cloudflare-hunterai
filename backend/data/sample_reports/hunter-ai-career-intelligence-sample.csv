@@ -1,0 +1,26 @@
+﻿section,field,value
+Candidate Information,name,Sample Candidate
+Candidate Information,email,sample@hunterai.example
+Report Metadata,generation_date,"08 Aug 2026, 10:00 UTC"
+Profile,completion,92
+Profile,resume_parsing_status,Complete
+Resume Summary,skills,"[""Python"", ""React"", ""SQL""]"
+Resume Summary,education,"[{""degree"": ""B.Tech Computer Science"", ""institution"": ""Example University"", ""year"": ""2026""}]"
+Resume Summary,experience,"[{""role"": ""Software Engineering Intern"", ""company"": ""Example Labs""}]"
+Resume Summary,projects,"[{""title"": ""Career Match Platform"", ""technologies"": [""FastAPI"", ""Next.js""]}]"
+ATS Score,value,84
+ATS Breakdown,top_match_score,84
+ATS Breakdown,matched_opportunities,12
+Strengths,value,"[""Python"", ""React"", ""SQL""]"
+Weaknesses,value,"[""Docker"", ""Cloud deployment""]"
+Skill Analysis,parsed_skills,"[""Python"", ""React"", ""SQL""]"
+Missing Skills,value,"[""Docker"", ""Cloud deployment""]"
+Resume Improvement Suggestions,value,"[""Add measurable impact to project descriptions.""]"
+Resume Tailoring Suggestions,target_role,Frontend Engineer
+Resume Tailoring Suggestions,focus,Highlight React and API integration work.
+Top Recommended Jobs,value,"[{""title"": ""Frontend Engineering Intern"", ""company"": ""Northstar"", ""score"": 84, ""location"": ""Remote""}, {""title"": ""Software Engineer Intern"", ""company"": ""Pioneer"", ""score"": 79}]"
+Career Growth Suggestions,value,"[""Build and deploy one full-stack portfolio project.""]"
+Market Intelligence,trend,Full-stack and cloud fundamentals appear across saved roles.
+Recent Activity,saved_jobs,"[{""title"": ""Frontend Engineering Intern"", ""company"": ""Northstar""}]"
+Recent Activity,tailored_resumes_generated,1
+Overall AI Summary,value,Strong early-career profile with practical web development foundations.
