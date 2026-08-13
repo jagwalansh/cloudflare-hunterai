@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "npm run dev --workspace frontend",
     "build": "npm run build --workspace frontend && npm run build:worker --workspace frontend",
-    "deploy": "npm run deploy --workspace frontend",
+    "deploy": "cd frontend && npx wrangler deploy",
     "start": "npm run start --workspace frontend"
   }
 }
