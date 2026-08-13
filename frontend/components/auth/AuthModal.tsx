@@ -3,7 +3,9 @@
 import React, { useEffect, useRef, useState } from "react";
 import { useAuth } from "./AuthProvider";
 import { X, Mail, Lock, User } from "lucide-react";
-import Beams from "./Beams";
+import dynamic from "next/dynamic";
+
+const Beams = dynamic(() => import("./Beams"), { ssr: false });
 
 interface AuthModalProps {
   isOpen: boolean;

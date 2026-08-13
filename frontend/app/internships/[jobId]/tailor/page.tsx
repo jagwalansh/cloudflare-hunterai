@@ -4,11 +4,34 @@ import { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { api } from "@/lib/api";
 
-import { ArrowLeft, Download, FileText, CheckCircle, Target, Briefcase, ExternalLink } from "lucide-react";
+import { ArrowLeft, FileText, Briefcase, ExternalLink } from "lucide-react";
 import { ScoreRing } from "@/components/shared/ScoreRing";
-import { PDFDownloadLink } from "@react-pdf/renderer";
-import { ResumeDocument } from "@/components/ResumeDocument";
 import { generateLatex } from "@/utils/generateLatex";
+import dynamic from "next/dynamic";
+
+const ResumeDownloadButton = dynamic(
+  () => import("@/components/ResumeDownloadButton"),
+  { 
+    ssr: false, 
+    loading: () => (
+      <button 
+        disabled 
+        style={{ 
+          padding: "8px 16px", 
+          borderRadius: "8px", 
+          background: "var(--border)", 
+          border: "none", 
+          fontSize: "14px", 
+          fontWeight: "bold", 
+          color: "white",
+          cursor: "not-allowed"
+        }}
+      >
+        Loading PDF...
+      </button>
+    ) 
+  }
+);
 
 export default function TailorResumePage() {
   const params = useParams();
@@ -165,33 +188,10 @@ export default function TailorResumePage() {
               
               {tailorResult && (
                 <div style={{ display: "flex", gap: "10px", marginTop: "10px" }}>
-                  <PDFDownloadLink 
-                    document={<ResumeDocument data={tailorResult.tailored_profile} />} 
-                    fileName={`Tailored_Resume_${job?.company?.replace(/\s+/g, '_') || 'Job'}.pdf`}
-                  >
-                  {({ blob, url, loading: pdfLoading, error }) => (
-                    <button 
-                      disabled={pdfLoading}
-                      style={{ 
-                        display: "flex", 
-                        alignItems: "center", 
-                        gap: "8px",
-                        padding: "8px 16px", 
-                        background: pdfLoading ? "var(--border)" : "#00b4d8", 
-                        color: "white", 
-                        border: "none", 
-                        borderRadius: "8px",
-                        cursor: pdfLoading ? "not-allowed" : "pointer",
-                        fontWeight: "bold",
-                        fontSize: "14px",
-                        transition: "opacity 0.2s"
-                      }}
-                    >
-                      <Download size={16} />
-                      {pdfLoading ? "Preparing PDF..." : "Download PDF"}
-                    </button>
-                  )}
-                </PDFDownloadLink>
+                  <ResumeDownloadButton 
+                    tailoredProfile={tailorResult.tailored_profile} 
+                    fileName={`Tailored_Resume_${job?.company?.replace(/\s+/g, '_') || 'Job'}.pdf`} 
+                  />
                 
                 <form action="https://www.overleaf.com/docs" method="post" target="_blank" style={{ margin: 0 }}>
                   <input type="hidden" name="snip" value={generateLatex(tailorResult.tailored_profile)} />

@@ -13,9 +13,18 @@ import { StepExperience } from '@/components/resume-builder/StepExperience';
 import { StepEducation } from '@/components/resume-builder/StepEducation';
 import { StepProjects } from '@/components/resume-builder/StepProjects';
 import { StepSkills } from '@/components/resume-builder/StepSkills';
-import { StepFinalize } from '@/components/resume-builder/StepFinalize';
-import { LivePreviewPanel } from '@/components/resume-builder/LivePreviewPanel';
 import { TEMPLATES } from '@/components/resume-templates';
+import dynamic from 'next/dynamic';
+
+const StepFinalize = dynamic(
+  () => import('@/components/resume-builder/StepFinalize').then((mod) => mod.StepFinalize),
+  { ssr: false }
+);
+
+const LivePreviewPanel = dynamic(
+  () => import('@/components/resume-builder/LivePreviewPanel').then((mod) => mod.LivePreviewPanel),
+  { ssr: false }
+);
 import { WizardProgressBar, StepSegmentIndicator, WizardStep } from '@/components/resume-builder/WizardProgressBar';
 import { AIIntakeForm } from '@/components/resume-builder/AIIntakeForm';
 import { Sparkles, PenTool } from 'lucide-react';
